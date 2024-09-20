@@ -1,0 +1,16 @@
+.CardReservationBtn{
+    width: 200px;
+    height: 50px;
+    border: 0;
+    color: white;
+    background-color: var(--red);
+    font-size: 1rem;
+    font-weight: 600;    
+    cursor: pointer;
+    transition: all 0.1s ease;
+    border-radius: 0.2rem;
+}
+
+.CardReservationBtn:hover{
+    background-color: var(--lightred);
+}

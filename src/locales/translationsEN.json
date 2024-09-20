@@ -1,0 +1,206 @@
+{
+    "navbar": {
+        "home": "HOMEPAGE",
+        "apartments": "APARTMENTS",
+        "gallery": "GALLERY",
+        "activities": "ACTIVITIES",
+        "testimonials": "TESTIMONIALS",
+        "contact": "CONTACT"
+    },
+
+    "reservationBTN": "BOOK NOW",
+    "readMore": "Read more...",
+
+    "home": {
+      "firstH1": "Welcome to Saraca Palace Dubrovnik",
+      "h2": "Saraca Palace Dubrovnik - Apartments in Dubrovnik",
+      "text1": "Are you looking for a luxurious apartment in the heart of one of the most beautiful European cities? Located in the heart of this historic city, our apartments offer the perfect combination of modern and traditional architecture. ",
+      "text2": "Our apartments are ideal for anyone who wants to explore the rich history and culture and see all the natural beauties of Dubrovnik. Our apartments will provide you with an unforgettable experience and the vacation you have always been looking for.",
+      "buttonText": "Check out our apartments",
+      "secondH1": "APARTMENTS",
+      "text3": "Combining traditional and modern architecture with contemporary amenities, our private Dubrovnik apartments are individually decorated and ready for your stay in this historic city."
+    },
+
+    "apartmentCards": {
+      "kartica1-Text": "This luxurious apartment is perfect for your family, with 4 rooms, two bedrooms and a size of 100m2, your family will have enough space for all their needs.",
+      "kartica2-Text": "This cozy apartment is ideal for you and your significant other. With 1 bedroom, a kitchen, a living room, and a beautiful view of the garden, you will have everything you need for an unforgettable trip to Dubrovnik."
+    },
+
+    "apartmaniPage": {
+      "h1": "Apartments",
+      "h2": "Our apartments in Dubrovnik",
+      "text": "Choose one of our accommodations during your stay in Dubrovnik. \n\nOur apartments combine modern amenities and classic design into one. From large family trips to short visits, our apartments will provide you with the accommodation you have always wanted. \n\nAll of our apartments are equipped including: TV | Air conditioning | Kitchen with all appliances | Washing machine | Living area. \n\nCheck out our selection of apartments:"
+    },
+
+    "gallery": {
+      "naslov": "Saraca Palace Dubrovnik Photo Gallery",
+      "h2": "Check out our apartments",
+      "filterALL": "ALL"
+    },
+
+    "activities": {
+      "h1": "Activities",
+      "h2": "Some activities you can do in Dubrovnik",
+      "text": "Dubrovnik is one of the most famous Croatian tourist destinations. \n\nKnown for its rich history, beautiful architecture, and stunning nature, Dubrovnik is a perfect place for vacation. \n\n Dubrovnik's Old Town is a UNESCO World Heritage Site and one of the best-preserved medieval cities in Europe. You will be transported to the past as you stroll through narrow streets and admire the beautiful architecture of churches, palaces, and monasteries in the city. The city walls, dating back to the 13th century, offer a beautiful view of the Adriatic Sea and the surrounding nature. \n\nCheck out some of the best activities to do while in Dubrovnik:",
+      "cards": {
+        "naslov1": "SAILING",
+        "text1": "The pleasant climate of Dubrovnik allows sailing all year round. Visit the beautiful islands near Dubrovnik, forested and untouched oases of the Elafiti islands, explore picturesque settlements and the unreal beauty of the islands of Koločep, Lopud, and Šipan.",
+        "naslov2": "EXCURSIONS",
+        "text2": "Take a tour of Ston, visit saltworks and explore the wine route on the Pelješac peninsula. During the time of the Dubrovnik Republic, grape cultivation was the most important agricultural activity. The tradition continues today, and numerous wineries offer the opportunity to taste highly esteemed wines named after the places where the grapevine is grown - Dingač and Postup on the slopes of the Pelješac region. From the Pelješac town of Orebić, head to the island of Korčula. The medieval city of Korčula surrounded by city walls is the birthplace of Marco Polo. Walking through the city, you will have a view of rows of Gothic and Renaissance buildings. Enjoy watching traditional knightly dances: Moreška, Moštra, and Kumpanija. \n\nThe most beautiful parts of the Dubrovnik Riviera include Cavtat and Konavle. Among the many reasons to visit this area are unique folk costumes, good wine, pršut, cheese in oil, and the story of silk.",
+        
+        "naslov3": "HIKING, JEEP SAFARI, OR HORSEBACK RIDING",
+        "text3": "The pleasant climate of Dubrovnik allows sailing all year round. Visit the beautiful islands near Dubrovnik, forested and untouched oases of the Elafiti islands, explore picturesque settlements and the unreal beauty of the islands of Koločep, Lopud, and Šipan.",
+      
+        "naslov4": "BEACHES",
+        "text4": "The Dubrovnik Riviera boasts beautiful and untouched beaches. In the immediate vicinity of the Saraca Palace apartments, there are the city beach Banje and the Buža beach on the city walls themselves.",
+      
+        "naslov5": "WINE TASTING",
+        "text5": "Croatia is known for its delicious wines, and Dubrovnik is no exception. Take a wine tasting tour to sample some of the region's best wines and learn about the local wine-making traditions.",
+
+        "naslov6": "DIVING AND SNORKELING",
+        "text6": "Dubrovnik is home to some of the best diving and snorkeling spots in the Adriatic Sea. Take a guided diving or snorkeling tour to explore the underwater world and see a variety of marine life."
+      
+      
+      }
+    },
+
+    "testimonials": {
+      "card1": {
+        "naslov": "great location, beautiful appartment. hope we can return at some point ",
+        "tekst": "Saraca Palace has everything you can think of tastefully furnished and heaps of room. the views from the windows are amazing. Kate so lovely."
+      },
+
+      "card2": {
+        "naslov": "Excellent",
+        "tekst": "Gorgeous place, close to water front and all the old city sites. We easily found the walk up Srđ from the apartment. Our meet and greet, Kate, was terrific, caring, helpful and responsive. There are stairs but wide enough and well lit. Being close to the Cathedral meant closed shutters for sleeping but the day light views were great. Tasteful, comfortable and well equipped apartment 👌"
+      },
+
+      "card3": {
+        "naslov": "A wonderful place to stay in Dubrovnik old town. ",
+        "tekst": "The apartment was very spacious with a beautiful view of the cathedral.  It was located within the walls of the old town.  The kitchen was well equipped and the bathroom was clean with great water pressure.   Kate, our host, was very accessible.  I highly recommend Saraca Palace for a stay in Dubrovnik. Everything was great."
+      },
+
+      "card4": {
+        "naslov": "Great location, views, host and price! ",
+        "tekst": "Everything was perfect! Amazing host, spacious, comfortable and great location/view! shower is huge and living area is nice. Washer in unit. A/C works great. Would stay here again!"
+      },
+
+      "card5": {
+        "naslov": "Fabulous stay, beautiful apartment, fantastic hostess. ",
+        "tekst": "Kate was a wonderful hostess.  She went above and beyond.  Very responsive to any questions/issues. The driver/guide (Mario)  she connected us with was outstanding.  The apartment is beautiful and comfortable and had all the amenities."
+      },
+
+      "card6": {
+        "naslov": "You will love this place and the location! ",
+        "tekst": "Fantastic property in an amazing location!!  Apartment was clean and well stocked with everything we needed... especially Hair Dryer and 3 large Beach Towels!  Tea, Coffee and Water bottle also there for us. Booking was a breeze and Magdelana answered all questions quickly.  Kate met us, was wonderful, and gave us the tour and information about the apartment and city. She was also available for any questions that came up. "
+      },
+
+      "card7": {
+        "naslov": "Perfect",
+        "tekst": "The location is exceptional! And Kate is very kind and helpful."
+      },
+
+      "card8": {
+        "naslov": "It was a fairytale",
+        "tekst": "If you want to feel the real atmosphere of magical Dubrovnik then its the right place to stay. A very large apartment with magestic view, clean, modern, with all the appliances needed for our stay. In addition, the host - Kate couldnt be more friendly and welcoming. She was sooo supportive and polite. Love her!"
+      },
+
+      "h1": "Guest reviews",
+      "h2": "Read a few words from guests of Saraca Palace Dubrovnik",
+      "pNaslov": "Saraca Palace apartments ",
+      "p": "earned a Traveller Review Award 2023 with a rating on 9.4 making it one of the highest rated apartments in dubrovnik."
+    },
+
+    "contact": {
+      "naslov": "Contact and Location",
+      "naslov2": "Have questions? Contact us via the form or using our contact information:",
+      "lokacija": "Location",
+      "lokacijaTekst": "Saraca Palace is located within the Old City of Dubrovnik. Situated near the Dubrovnik wall and close to the most famous Dubrovnik locations, you are close to everything on your TO DO list.",
+      "kontaktNaslov": "Contact Us",
+      "kontaktP": "Contact us using our information or via the form.",
+      "name": "Name and surname",
+      "message": "Your message",
+      "send": "Send"
+      },
+
+      "footer": {
+        "phone": "Phone:",
+        "apartments": "Saraca Palace Apartments"
+      },
+
+      "CathedralView": {
+          "opis": "Description: ",
+          "opisText": "Saraca Palace is located in the very center of Dubrovnik's Old Town, which is protected by UNESCO. It has been owned by the noble Saraca family since the 14th century. The property is a 5-minute walk from Banje Beach and just a few meters from the Stradun promenade. Cathedral View apartment offers a unique view of the Dubrovnik Cathedral in front, free Wi-Fi and a smart TV, a kitchen with dining area, a double bedroom and a main room. It offers sights, bars and restaurants that are just a few steps from the apartment.",
+          "velicina": "SIZE: ",
+          "kreveti": "BEDS:",
+          "krevetiText": " 2 single beds, 1 double bed",
+
+          "dodatno": "EXTRA SERVICES:",
+          "dodatnoText": " Taxi to and from the airport \nTaxi to and from excursions",
+
+          "sadrzaji": "AMENITIES:",
+          "sadrzajiText": "\nA/C \nWIFI \nTV \nShower \nBath \nKitchen \nWorkspace \nTowels \nCoffee machine \nDishes and silverware \nFirst aid kit \nHair dryer \nHeating \nIron \nOven \nRefrigerator \nStove",
+          "informacije": "IMPORTANT INFORMATION:",
+          "checkIn": "Check-in after 3 pm",
+          "checkOut": "Check-out until 10 am",
+          "nocenja": "Minimum stay: 3 nights",
+          "cijena": "PRICES FROM 160€"
+      },
+      
+      "GardenView": {
+          "opis": "Description: ",
+          "opisText": "Saraca Palace is located in the very center of the Dubrovnik Old Town, which is under UNESCO protection. It has been owned by the noble Saraca family since the 14th century. The property is a 5-minute walk from Banje Beach and a few meters from Stradun Promenade. Garden View apartment offers a unique view of an inner part of the old town. It is a studio apartment with kitchenette, dinning area, sleeping area and the bathroom with a separate toilet room. Sleeping area has one lifted king bed, one unfoldable sofa and one single lifted bed. Studio apartment provides wi-fi and air-conditioning. Garden View studio apartment provides sights, bars and restaurants that are only a few steps away from the apartment.",
+          "velicina": "SIZE: ",
+          "kreveti": "BEDS:",
+          "krevetiText": "\n1 DOUBLE BED\n1 SINGLE BED",
+
+          "dodatno": "EXTRA SERVICES:",
+          "dodatnoText": " Taxi to and from the airport \nTaxi to and from excursions",
+          
+          "sadrzaji": "AMENITIES:",
+          "sadrzajiText": "\nA/C \nWiFi \nTV \nShower \nKitchen \nTowels \nCoffee machine \nDishes and utensils \nFirst aid kit \nHair dryer \nHeating \nIron \nMicrowave \nRefrigerator \nStove",
+          "informacije": "IMPORTANT INFORMATION:",
+          "checkIn": "Check in after 3pm",
+          "checkOut": "Check out until 10am",
+          "nocenja": "Minimum nights: 3",
+          "cijena": "PRICES FROM 140€"
+      },
+
+      "Booking": {
+        "rates": "Best rates from: ",
+        "checkin": "Check In",
+        "checkout": "Check Out",
+        "adults": "Adults",
+        "children": "Children",
+        "childAge": "Child Age",
+        "next": "NEXT",
+        "sun": "SUN",
+        "tue": "UTO",
+        "wed": "SRI",
+        "thu": "ČET",
+        "fri": "PET",
+        "sat": "SUB",
+        "mon": "PON",
+        "fName": "First Name",
+        "lName": "Last Name",
+        "arrivalTime": "Approximate Time of Arrival",
+        "back": "BACK",
+        "payment": "Payment",
+        "bookButton": "BOOK A DATE"
+      },
+
+      "months": {
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "may": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+      }
+}

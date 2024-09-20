@@ -1,0 +1,116 @@
+.DojmoviNaslov{
+    text-align: center;
+    color: var(--red);
+    font-weight: 400;
+    margin-top: 5rem;
+}
+
+.DojmoviNaslov2{
+    margin-top: 0.8rem;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.35rem;
+}
+
+.DojamCard{
+    padding: 20px 40px;
+    width: 600px;
+    border: 1px solid black;
+    margin: 0 0 3rem 0;
+}
+
+.DojamCard h3{
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.DojamText{
+    margin-bottom: 1rem;
+}
+
+.DojamName{
+    text-align: right;
+}
+
+.DojmoviCards{
+    margin: 4rem auto 0 auto;
+    display: flex;
+    width: 1300px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.DojmoviSection{
+    white-space: pre-line;  
+    vertical-align: bottom;
+}
+
+#reviewsImage{
+    border-radius: 2rem;
+    width: 470px;
+    margin-top: 1rem;
+}
+
+.DojmoviText{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#reviewsText{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    width: 600px;
+}
+
+
+@media only screen and (max-width: 1400px){
+    .DojmoviCards{
+        flex-direction: column;
+        width: 90%;
+        align-items: center;
+        margin: 0 auto;
+        margin-top: 2rem;
+    }
+}
+
+@media only screen and (max-width: 750px){
+    .lijevo, .desno{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .DojamCard{
+        width: 95%;
+    }
+
+    #reviewsText{
+        width: 90%;
+    }
+
+    .DojmoviText h2{
+        width: 95%;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    #reviewsImage{
+        width: 90%;
+    }
+
+    .DojmoviNaslov{
+        font-size: 1.7rem;
+    }
+
+    .DojmoviText h2{
+        font-size: 1.3rem;
+    }
+
+    .DojamCard h3{
+        font-size: 1.3rem;
+    }
+}

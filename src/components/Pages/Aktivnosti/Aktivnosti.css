@@ -1,0 +1,89 @@
+.AktivnostiMainInfo{
+    width: 1000px;
+    margin: 5rem auto 0 auto;
+    text-align: center;
+    white-space: pre-line;  
+    vertical-align: bottom;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.AktivnostiMainInfo h1{
+    font-weight: 400;
+    color: var(--red);
+}
+
+.AktivnostiMainInfo h2{
+    font-weight: 400;
+}
+
+.AktivnostiMainInfo p{
+    margin-top: 2rem;
+    margin-bottom: 7rem;
+}
+
+.aktivnostiCards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aktivnostiCard{
+    width: 700px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 6rem;
+}
+
+.aktivnostiCard h2{
+    font-weight: 400;
+    font-size: 1.6rem;
+    color: var(--red);
+    margin-bottom: 3rem;
+}
+
+.aktivnostiCard p{
+    white-space: pre-line;  
+    vertical-align: bottom;
+    color: rgb(48, 48, 48);
+    margin-bottom: 5rem;
+    line-height: 1.3rem;
+    font-size: 1rem;
+}
+
+.aktivnostiCard img{
+    width: 100%;
+    border-radius: 2rem;
+}
+
+@media only screen and (max-width: 1050px){
+    .AktivnostiMainInfo{
+        width: 95%;
+    }
+}
+
+@media only screen and (max-width: 750px){
+    .aktivnostiCard{
+        width: 95%;
+    }
+
+    .aktivnostiCard h2{
+        font-size: 1.5rem;
+    }
+    
+    .aktivnostiCard p{
+        font-size: 0.95rem;
+    }
+
+    .AktivnostiMainInfo h1{
+        font-size: 1.7rem;
+    }
+
+    .AktivnostiMainInfo h2{
+        font-size: 1.4rem;
+        margin-top: 0.4rem;
+    }
+}

@@ -1,0 +1,505 @@
+.Navbar{
+    position: fixed;
+    border-bottom: 1px solid black;
+    background-color: white;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 70px;
+    letter-spacing: 1px;
+    transition: all 0.2s ease;
+    z-index: 999;
+}
+
+.NavbarWrapper{
+    height: 70px;
+    position: relative;
+}
+
+.NavbarLinksWrapper{
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    float: none;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.NavbarContactLinks{
+    color: black;
+    text-decoration: none;
+}
+
+.NavbarContactLinks:hover{
+    text-decoration: underline;
+}
+
+.NavbarContactIconLinks{
+    color: black;
+}
+
+.NavbarLinksWrapper p{
+    font-size: 1rem;
+    margin: 0 0.7rem;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+.NavbarLinksWrapper p:hover{
+    font-weight: bold;
+}
+
+.NavbarLogo{
+    float: left;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 10rem;
+    font-weight: 800;
+    font-size: 1.2rem;
+    line-height: 1.1rem;
+    cursor: pointer;
+}
+
+.ReservationBtn{
+    float: right;
+    position: absolute;
+    right: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-right: 10rem;
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: var(--red);
+    font-weight: 700;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 0.2rem;
+}
+
+
+.ReservationBtn:hover{
+    transform: translateY(-55%);
+    background-color: var(--lightred);
+}
+
+
+.NavbarAddon{
+    display: none;
+    border-bottom: 1px solid black;
+    width: 70%;
+}
+
+#navbarSocials{
+    float: right;
+    position: absolute;
+    left: 0;
+    margin-left: 30.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    display: none;
+}
+
+.NavbarMediaLink{
+    color: black;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0.7rem;
+}
+
+.NavbarSocialMediaIcons{
+    width: 25px;
+    height: 25px;
+    transition: all 0.2s ease;
+}
+
+.NavbarSocialMediaIcons:hover{
+    color: var(--red);
+    transform: scale(1.15);
+}
+
+.active{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 150px;
+} 
+
+.active #navbarSocials{
+    display: flex;
+}
+
+.active .NavbarWrapper{
+    height: 60px;
+}
+
+.active .ReservationBtn{
+    display: none;
+}
+
+.active .NavbarAddon{
+    display: block;
+    position: relative;
+    height: 100px;
+}
+
+.active .NavbarLogo{
+    display: none;
+}
+
+.active .bar{
+    display: none;
+}
+
+.bar2{
+    float: right;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: 10%;
+    top: 25%;
+    display: none;
+}
+
+#socialsDropdown2{
+    background-color: white;
+    float: right;
+    position: absolute;
+    right: 8%;
+    top: 45%;
+    z-index: 9999;
+    padding: 20px;
+    display: none;
+}
+
+#ingFejs{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 70%;
+    margin-top: 1rem;
+}
+
+.menuSocialActive{
+    display: block !important;
+}
+
+
+
+.NavbarLogo1{
+    position: absolute;
+    float: none;
+    left: 50%;    
+    top: 0%;
+    transform: translate(-50%, 30%);
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 800;
+    line-height: 1.2rem;
+}
+
+.NavbarContact{
+    float: right;
+    margin-top: 20px;
+}
+
+.NavbarContactItem{
+    display: flex;
+    align-items: center;
+    margin: 0.4rem 0;
+}
+
+.NavbarContactItem p{
+    margin-left: 0.5rem;
+}
+
+
+.NavbarLink{
+    text-decoration: none;
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+.highlighted{
+    border-bottom: 1px solid black;
+}
+
+
+/***SELECTOR***/
+.selectBox{
+    background-color: transparent;
+    border: none;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+.optionsMenu{
+    background-color: transparent;
+}
+
+.LanguageSelector{
+    float: right;
+    position: absolute;
+    right: 0%;
+    margin-right: 4rem;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 18rem;
+}
+
+.active .LanguageSelector{
+    display: none;
+}
+
+.LanguageSelector1{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 2rem;
+}
+
+
+
+.bar{
+    position: absolute;
+    top: 50%;
+    right: 4rem;
+    width: 25px;
+    height: 25px;
+    transform: translateY(-50%);
+    display: none;
+}
+
+#socialsDropdown{
+    background-color: white;
+    position: absolute;
+    right: 3.7rem;
+    top: 80%;
+    z-index: 9999;
+    padding: 20px;
+    display: none;
+}
+
+.bar, .bar2{
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1450px) {
+    .LanguageSelector{
+        display: none;
+    }
+
+    .ReservationBtn{
+        margin-right: 4rem;
+    }
+
+    .NavbarLinksWrapper p{
+        margin: 0 0.5rem;
+        font-size: 0.95rem;
+    }
+
+    .NavbarAddon{
+        width: 85%;
+    }
+
+    #navbarSocials{
+        margin-left: 25rem;
+    }
+}
+
+
+@media only screen and (max-width: 1250px) {
+    #navbarSocials{
+        margin-left: 25rem;
+    }
+    
+    .NavbarLogo{
+        margin-left: 5rem;
+    }
+
+    .ReservationBtn{
+        width: 150px;
+    }
+}
+
+
+@media only screen and (max-width: 1060px) {
+    #navbarSocials{
+        margin-left: 22rem;
+    }
+
+    .NavbarLinksWrapper p{
+        font-size: 0.95rem;
+        margin: 0 0.5rem;
+    }
+
+    .NavbarContact{
+        display: none;
+    }
+
+    .active .bar2{
+        display: block;
+    }
+
+    #navbarSocials{
+        display: none;
+    }
+    
+    #navbarSocials a{
+        display: none;
+    }
+
+    .ReservationBtn{
+        transition: none;
+        top: 80px;
+        width: 180px;
+    }
+
+    .ReservationBtn:hover{
+        transform: translateY(-50%);
+    }
+
+    .NavbarLogo{
+        margin-left: 3rem;
+        font-size: 1rem;
+    }
+
+    .bar{
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1060px) {
+    .NavbarLogo{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 840px) {
+    .NavbarLinksWrapper{
+        display: none;
+    }
+
+    .active .NavbarLinksWrapper{
+        display: flex;
+    }
+
+    .NavbarLogo{
+        display: block;
+        text-align: center;
+        margin-left: 0;
+        top: 10%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 1.1rem;
+    }
+
+    .ReservationBtn{
+        margin-right: 1rem;
+    }
+}
+
+@media only screen and (max-width: 650px){
+    .active .NavbarLinksWrapper{
+        display: none;
+    }
+
+    .active .ReservationBtn{
+        display: block;
+        top: 8px;
+        left: 0;
+        transform: none;
+        margin: 0;
+        float: none;
+        width: 180px;
+        height: 40px;
+        transform: translateX(-90px);
+    }
+
+    .ReservationBtn{
+        width: 130px;
+        height: 35px;
+    }
+    
+}
+
+@media only screen and (max-width: 550px){
+    .bar{
+        right: 3rem;
+    }
+}
+
+
+
+/***Navbar Dropdown***/
+
+.is-active{
+    position: absolute;
+    display: flex !important;
+    flex-direction: column;
+    background-color: white;
+    align-items: center;
+    width: 100%;
+    transform: none;
+    top: 70px;
+    left: 0;
+}
+
+.is-active .NavbarLink{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.is-active .NavbarLink:hover, .is-active .NavbarLink:active{
+    background-color: rgb(216, 216, 216);
+}
+
+.is-active p:hover{
+    font-weight: normal;
+}
+
+.activeSocials{
+    margin-top: 1rem;
+    display: none;
+}
+
+.is-active .activeSocials{
+    display: flex;
+}
+
+.is-active .activeSocials a{
+    color: black;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1rem 1rem 1rem;
+}
+
+.activeWrapper{
+    width: 100%;
+}
+
+.activeWrapper .ReservationBtn{
+    left: 50%;
+}
+
+.activeWrapper .is-active{
+    z-index: 99999;
+    top: 0%;
+}
+
+

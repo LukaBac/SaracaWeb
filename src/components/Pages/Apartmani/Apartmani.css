@@ -1,0 +1,94 @@
+.ApartmaniMainInfo{
+    white-space: pre-line;  
+    vertical-align: bottom;
+    width: 1000px;
+    margin: 5rem auto 0 auto;
+    text-align: center;
+}
+
+.ApartmaniMainInfo h1{
+    font-weight: 400;
+    color: var(--red);
+}
+
+.ApartmaniMainInfo h2{
+    font-weight: 400;
+}
+
+.ApartmaniMainInfo p{
+    margin-top: 2rem;
+    margin-bottom: 7rem;
+}
+
+.ApartmentCards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 4rem auto 4rem auto;
+    width: 70%;
+}
+
+.ApartmentCards .CardDiv{
+    width: 500px;
+}
+
+@media only screen and (max-width: 1050px){
+    .ApartmaniMainInfo{
+        width: 95%;
+    }
+}
+
+@media only screen and (max-width: 1650px){
+    .ApartmentCards{
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 1350px){
+    .ApartmentCards .CardDiv{
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width: 1080px){
+    .ApartmentCards{
+        flex-direction: column;
+        margin: 4rem auto 0 auto;
+
+    }
+
+    .ApartmaniMainInfo p{
+        margin-bottom: 5rem;
+    }
+
+    .ApartmentCards .CardDiv{
+        margin-bottom: 6rem;
+        width: 600px;
+    }
+}
+
+@media only screen and (max-width: 650px){
+    .ApartmentCards .CardDiv{
+        width: 100%;
+    }
+
+    .ApartmaniMainInfo{
+        width: 90%;
+    }
+
+    .ApartmaniMainInfo h1{
+        font-size: 1.8rem;
+    }
+
+    .ApartmaniMainInfo h2{
+        font-size: 1.5rem;
+    }
+
+    .ApartmentCards .CardDiv p{
+        font-size: 0.95rem;
+    }
+
+    .ApartmentCards .CardDiv h1{
+        font-size: 1.4rem;
+    }
+}

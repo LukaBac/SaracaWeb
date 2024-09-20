@@ -1,0 +1,74 @@
+.Footer{
+    background-color: rgb(73, 73, 73);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.FooterContent{
+    margin-top: 3rem;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+}
+
+.FooterContent h2{
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
+
+.FooterIcons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.FooterIcon{
+    margin-top: 2rem;
+    width: 1.8rem;
+    height: 1.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.FooterIcon:hover{
+    color: var(--red);
+    transform: scale(1.2);
+}
+
+.FooterText{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    line-height: 1.5rem;
+}
+
+.FooterCopyright{
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+.FooterIcons a{
+    color: white;
+}
+
+.FooterContactLink{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.FooterContactLink:hover{
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 545px){
+    .FooterContent{
+        width: 95%;
+    }
+}

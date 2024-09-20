@@ -1,0 +1,464 @@
+.Naslov{
+    color: var(--red);
+    font-weight: 400;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 0.3rem;
+}
+
+.Naslov2{
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+
+.ContactSection{
+    background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.678), rgba(122, 122, 122, 0.295), rgb(12, 12, 12)), url("../../../img/Kontakt.jpg");
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid white;
+    background-position: 50% 70%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ContactSection h2{
+    color: white;
+    text-align: center;
+    font-size: 1.8rem;
+    letter-spacing: 0.1rem;
+}
+
+.ContactSection p, .ContactSection h2, .ContactSection label, .ContactSection textarea, .ContactSection input{
+    text-shadow: 2px 3px 2px rgb(32, 32, 32), 2px 2px 2px rgba(32, 32, 32, 0.726);
+}
+
+
+
+.HeadlineP{
+    color: white;
+    margin-top: 1rem;
+    text-align: start;
+    margin-bottom: 3rem;
+    font-size: 1.3rem;
+}
+
+.ContactIcon{
+    color: white;
+    width: 25px;
+    height: 25px;
+}
+
+.contact__section{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact__info{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.contact__info__item{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+.contact__info__item p{
+    color: white;
+    margin-left: 2rem;
+    font-size: 1.4rem;
+}
+
+.Contact__Info__Item__Link{
+    cursor: pointer;
+    margin: 3rem 0;
+    color: white;
+    text-decoration: none;
+}
+
+.Contact__Info__Item__Link:hover{
+    text-decoration: underline;
+}
+
+.contact__form{
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+
+.form_group{
+    display: flex;
+    flex-direction: column-reverse;
+    color: white;
+    margin-bottom: 3rem;
+}
+
+.form_group input{
+    margin-top: 0.2rem;
+    border: none;
+    background-color: transparent;
+    border-bottom: 3px solid white;
+    padding: 5px;
+    color: white;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 1rem;
+}
+
+textarea{
+    background-color: transparent;
+    border: none;
+    border-bottom: 3px solid white;
+}
+
+.form_group label{
+    padding-left: 10px;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+    transform: translateY(30px);
+    font-size: 1.2rem;
+    cursor: text;
+}
+
+input:focus{
+    outline: none;
+}
+
+textarea{
+    color: white;
+    outline: none;
+    padding-left: 10px;
+    height: 130px;
+    margin-top: 0.2rem;
+    
+    /*border: 3px solid white;*/
+}
+
+.form_group input:focus ~ label,
+.form_group input:valid ~ label{
+    transform: translateY(0px);
+}
+
+textarea:focus ~ label,
+textarea:valid ~ label{
+    transform: translateY(-10px);
+}
+
+
+
+
+#Send__Btn{
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    margin: auto;
+    border: 3px solid white;
+    color: white;
+    background-color: transparent;
+    font-size: 1.5rem;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 1rem;
+    transition: all 0.2s ease;
+    box-shadow: inset 0 0 0 0 transparent;
+}
+
+#Send__Btn:hover{
+    color: black;
+    border-color: var(--red);
+    box-shadow: inset 0 -300px 0 0 var(--red);
+    transform: translateY(-5px);
+    text-shadow: none;
+}
+
+
+
+
+.Location{
+    margin: 7rem auto 8rem auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.LocationInfo h2{
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.LocationInfo{
+    margin-top: 1rem;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.LocationInfoItem{
+    display: flex;
+    margin-top: 10%;
+    align-items: center;
+}
+
+.LocationIcon{
+    margin-right: 1rem;
+}
+
+.LocationInfoItem p{
+    margin-left: 1rem;
+}
+
+.Location iframe{
+    display: block !important;
+}
+
+@media only screen and (max-width: 1800px){
+    .Location{
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 1620px){
+    .Location iframe{
+        width: 600px;
+    }
+}
+
+@media only screen and (max-width: 1400px){
+    .LocationInfo{
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    .Location iframe{
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    .Location{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: 3rem;
+    }
+
+    .LocationInfoItem{
+        margin-bottom: 5rem;
+    }
+
+    .Location iframe{
+        width: 700px;
+    }
+
+    .Naslov{
+        font-size: 1.7rem;
+    }
+
+    .Naslov2{
+        font-size: 1.2rem;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width: 750px){
+    .Location iframe{
+        width: 100%;
+    }
+}
+
+
+/***forma***/
+
+@media only screen and (max-width: 1400px){
+    .contact__form{
+        width: 500px;
+    }
+
+    .contact__form textarea{
+        width: 500px !important;
+    }
+
+    .ContactSection{
+        padding: 100px 0;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    .contact__form{
+        width: 400px;
+    }
+
+    .contact__form textarea{
+        width: 400px !important;
+    }
+
+    .contact__info__item p{
+        font-size: 1.2rem;
+        font-weight: normal     ;
+    }
+
+    .contact__info h2{
+        font-size: 1.6rem;
+        font-weight: normal;
+    }
+
+    .HeadlineP{
+        font-weight: normal;
+        font-size: 1.2rem;
+    }
+
+    #Send__Btn{
+        width: 250px;
+        height: 45px;
+    }
+
+    .ContactSection{
+        padding: 70px 0 100px 0;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    .contact__info{
+        width: 40%;
+    }
+
+    .contact__form{
+        width: 40%;
+    }
+
+    .contact__form textarea{
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 800px){
+    .contact__section{
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .contact__info{
+        width: 100%;
+        align-items: center;
+    }
+
+    .HeadlineP{
+        text-align: center;
+    }
+
+    .contact__form{
+        width: 85%;
+    }
+
+    .contact__info__item p{
+        margin-left: 0.6rem;
+    }
+
+    .ContactIcon{
+        margin-left: 0.4rem;
+    }
+}
+
+
+@media only screen and (max-width: 500px){
+    #locationText{
+        width: 95%;
+    }
+
+    #locationText p{
+        width: 100%;
+    }
+
+    .HeadlineP{
+        width: 95%;
+    }
+
+    .contact__info__item p{
+        width: 100%;
+    }
+
+    .LocationInfo{
+        width: 100%;
+    }
+
+    .LocationIcon{
+        width: 28px;
+        height: 28px;
+    }
+
+    .Naslov{
+        font-size: 1.7rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .Naslov2{
+        font-size: 1.15rem;
+    }
+
+    .Location h2{
+        font-size: 1.7rem;
+    }
+
+    .HeadlineP{
+        font-size: 1.1rem;
+    }
+
+    .ContactIcon{
+        width: 30px;
+        height: 30px;
+    }
+
+    #Send__Btn:hover{
+        transform: none;
+    }
+
+    .Contact__Info__Item__Link{
+        margin: 2.5rem 0;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    .contact__info__item p {
+        text-align: center;
+        width: 85%;
+    }
+
+    .Contact__Info__Item__Link:last-child p{
+        margin: 0;
+    }
+
+    .contact__info__item{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 80%;
+    }
+
+    .Contact__Info__Item__Link{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+

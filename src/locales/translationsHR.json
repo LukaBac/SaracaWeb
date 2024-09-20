@@ -1,0 +1,207 @@
+{
+    "navbar": {
+      "home": "NASLOVNICA",
+      "apartments": "APARTMANI",
+      "gallery": "GALERIJA",
+      "activities": "AKTIVNOSTI",
+      "testimonials": "DOJMOVI GOSTIJU",
+      "contact": "KONTAKT"
+    },
+
+    "reservationBTN": "REZERVIRAJTE",
+    "readMore": "Pročitajte više...",
+
+    "home": {
+      "firstH1": "Dobrodošli u Saraca Palace Dubrovnik",
+      "h2": "Saraca Palace Dubrovnik - Apartmani Dubrovnik",
+      "text1": "Tražite li luksuzni apartman u srcu jednog od najljepših Europskih gradova? Smješteni u srcu ovog povijesnog grada, naši apartmani pružaju savršenu kombinaciju moderne i tradicionalne arhitekture. ",
+      "text2": "Naši apartmani su idealni za bilo koga tko želi istražiti bogatu povijest i kulturu i vidjeti sve prirodne ljepote Dubrovnika. Naši apartmani pružit će vam nezaboravno iskustvo i odmor kakav ste oduvijek tražili.",
+      "buttonText": "Pogledajte naše apartmane",
+      "secondH1": "APARTMANI",
+      "text3": "Spajajući tradicionalnu i modernu arhitekturu sa suvremenim pogodnostima, naši privatni Dubrovački apartmani su individualno uređeni i spremni za vaš boravak u ovom povijesnom gradu."
+    },
+    "apartmentCards": {
+      "kartica1-Text": "Ovaj luksuzni apartman savršen je za vašu obitelj, uz 4 sobe, dvije spavaće sobe velicinu od 100m2, vaša obitelj imati će dovoljno prostora za sve potrebe.",
+      "kartica2-Text": "Ovaj udoban apartman je idealan za vas i vašu bolju polovicu. Uz 1 spavaću sobu, kuhinju, dnevni boravak i prekrasan pogled na vrt, imat ćete sve potrebno za nezaboravan izlet u Dubrovnik."
+    },
+
+    "apartmaniPage": {
+      "h1": "Apartmani",
+      "h2": "Naši Dubrovački apartmani",
+      "text": "Izaberite jedan od naših smještaja tijekom vašeg boravka u Dubrovniku. \n\nNaši apartmani spajaju moderne pogodnosti i klasični dizajn u jedno. Od velikih izleta cijele obitelji do kratke posjete, naši apartmani će vam pružiti smještaj kakav ste oduvijek htjeli. \n\nSvi naši apartmani su opremljeni uključujući: TV | Klimatizacijski uređaj | Kuhinju sa svim uređajima | Praonicu | Prostor za zajedničko boravljenje \n\nPogledajte ponudu naših apartmana:"
+    },
+
+    "gallery": {
+      "naslov": "Saraca Palace Dubrovnik Galerija Fotografija",
+      "h2": "Pogledajte naše smještaje",
+      "filterALL": "SVE"
+    },
+
+    "activities": {
+      "h1": "Aktivnosti",
+      "h2": "Neke aktivnosti koje možete raditi u Dubrovniku",
+      "text": "Dubrovnik je jedno od najpoznatijih Hratskih turističkih odredišta. \n\nPoznat po bogatoj povijesti, prekrasnoj arhitekturi i zapanjujućoj prirodi, Dubrovnik je savršeno mjesto za odmor. \n\n Dubrovnikova Stara gradska jezgra je UNESCO-va svjetska baština i jedan je od najbolje očuvanih srednjovjekovnih gradova u Europi. Bit ćete transportirani u prošlost dok šetate uskim ulicama i divite se prekrasnoj arhitekturi crkava, palača i samostana u gradu. Zidine grada, koje datiraju još iz 13. stoljeća, nude prekrasan pogled na Jadransko more i okolnu prirodu. \n\nPogledajte neke od najboljih aktivnosti za raditi dok ste u Dubrovniku:",
+      "cards": {
+        "naslov1": "JEDRENJE",
+        "text1": "Ugodna klima dubrovačkog podneblja omogućava plovidbu tijekom cijele godine. Posjetite prekrasna otočja u neposrednoj blizini Dubrovnika, šumovite i netaknute oaze Elafitskih otoka, istražujte pitoreskna naselja i nestvarnu ljepotu prirode otoka Koločepa, Lopuda i Šipana.",
+
+        "naslov2": "IZLETI",
+        "text2": "Razgledajte Ston, posjetite solane i istražite vinsku cestu na poluotoku Pelješcu. U vrijeme Dubrovačke republike uzgoj grožđa bila je najvažnija poljoprivredna aktivnost. Tradicija se nastavila do danas, te mnogobrojne vinarije nude mogućnost kušanja vrlo cjenjenih vina nazvanih upravo po mjestima gdje se uzgaja vinova loza- Dingač i Postup na obroncima pelješkog kraja. Iz pelješkog grada Orebića uputite se na otok Korčulu. Srednjovjekovni grad Korčula okružen gradskim zidinama rodni je grad Marka Pola. Šetajući gradom pruža se pogled na nizove gotičkih i renesansnih građevina. Uživajte promatrajući tradicionalne viteške plesove: moreška, moštra i kumpanija. \n\nNajljepši dijelovi dubrovačke rivijere uključuju Cavtat i Konavle. Među mnogim razlozima zbog kojih treba posjetiti ovo područje su jedinstvene narodne nošnje, dobra vina, pršut, sir u ulju i priča o svili.",
+        
+        "naslov3": "PLANINARENJE, JEEP SAFARI ILI JAHANJE",
+        "text3": "Ugodna klima dubrovačkog podneblja omogućava plovidbu tijekom cijele godine. Posjetite prekrasna otočja u neposrednoj blizini Dubrovnika, šumovite i netaknute oaze Elafitskih otoka, istražujte pitoreskna naselja i nestvarnu ljepotu prirode otoka Koločepa, Lopuda i Šipana.",
+      
+        "naslov4": "PLAŽE",
+        "text4": "Dubrovačka rivijera ponosi se prekrasnim i netaknutim plažama. U neposrednoj blizini Saraca Palace apartmana nalazi se gradska plaža Banje, te plaža Buža na samim gradskim zidinama.",
+      
+        "naslov5": "DEGUSTACIJA VINA",
+        "text5": "Hrvatska je poznata po svojim ukusnim vinima, a Dubrovnik nije iznimka. Sudjelujte u turi degustacije vina i kušajte neka od najboljih vina regije te saznajte više o lokalnoj tradiciji proizvodnje vina.",
+
+        "naslov6": "RONJENJE",
+        "text6": "Dubrovnik je dom nekim od najboljih lokacija za ronjenje na Jadranskom moru. Sudjelujte u vođenoj turi ronjenja i istražite podvodni svijet te vidite različite vrste morskih organizama."
+      
+      
+      
+      }
+    },
+
+    "testimonials": {
+      "card1": {
+        "naslov": "Odlična lokacija, prekrasan apartman. Nadamo se da se možemo vratiti u nekom trenutku",
+        "tekst": "Saraca Palace ima sve što možete zamisliti ukusno namješteno i obilje prostora. Pogledi iz prozora su nevjerojatni. Kate je tako divna."
+        },
+        "card2": {
+          "naslov": "Izuzetno",
+          "tekst": "Predivno mjesto, blizu obale i svih starinskih gradskih znamenitosti. Lako smo pronašli put do Srđa iz apartmana. Naš susret i pozdrav, Kate, bila je sjajna, brižna, korisna i odgovorna. Postoje stepenice, ali dovoljno široke i dobro osvijetljene. Blizina katedrale značila je zatvorene rolete za spavanje, ali pogledi na svjetlost dana bili su sjajni. Ukusan, udoban i dobro opremljen apartman 👌"
+        },
+      
+        "card3": {
+          "naslov": "Divno mjesto za boravak u starom gradu Dubrovnika.",
+          "tekst": "Apartman je bio vrlo prostran s prekrasnim pogledom na katedralu. Nalazio se unutar zidina starog grada. Kuhinja je bila dobro opremljena, a kupaonica čista s odličnim pritiskom vode. Kate, naš domaćin, bila je vrlo dostupna. Toplo preporučujem Saraca Palace za boravak u Dubrovniku. Sve je bilo sjajno."
+        },
+      
+        "card4": {
+          "naslov": "Odlična lokacija, pogledi, domaćin i cijena!",
+          "tekst": "Sve je bilo savršeno! Izvanredan domaćin, prostran, udoban i odličan pogled! tuš je ogroman, a dnevni boravak je lijep. Perilica u jedinici. Klima uređaj odlično radi. Ovdje bih ponovno ostao!"
+        },
+      
+        "card5": {
+          "naslov": "Fabulozan boravak, prekrasan apartman, fantastična domaćica.",
+          "tekst": "Kate je bila divna domaćica. Išla je iznad i izvan. Vrlo odgovorna na sva pitanja/probleme. Vozač/vodič (Mario) s kojim nas je povezala bio je izvanredan. Apartman je prekrasan i udoban i ima sve pogodnosti."
+        },
+
+        "card6": {
+          "naslov": "Obožavat ćete ovo mjesto i lokaciju!",
+          "tekst": "Fantastičan objekt na nevjerojatnoj lokaciji!! Apartman je čist i dobro opremljen sa svime što nam je trebalo ... posebno su nam se svidjeli sušilo za kosu i 3 velika plažna ručnika! Čaj, kava i boca vode također su bili dostupni za nas. Rezervacija je bila laka, a Magdalena je brzo odgovorila na sva pitanja. Kate nas je dočekala, bila je divna i dala nam obilazak i informacije o apartmanu i gradu. Bila je također dostupna za sva pitanja koja su se pojavila."
+          },
+          
+          "card7": {
+          "naslov": "Savršeno",
+          "tekst": "Lokacija je iznimna! A Kate je vrlo ljubazna i susretljiva."
+          },
+          
+          "card8": {
+          "naslov": "Bila je bajka",
+          "tekst": "Ako želite osjetiti pravu atmosferu čarobnog Dubrovnika, ovo je pravo mjesto za boravak. Vrlo veliki apartman s veličanstvenim pogledom, čist, moderan, sa svim potrebnim uređajima za naš boravak. Osim toga, domaćin - Kate nije mogla biti više prijateljska i gostoljubiva. Bila je jako podržavajuća i ljubazna. Volimo ju!"
+          },
+
+      "h1": "Dojmovi naših gostiju",
+      "h2": "Pročitajte par riječi naših gostiju o Saraca Palace Apartmanima",
+      "pNaslov": "Saraca Palace apartmani ",
+      "p": "su osvojili Traveller Review Award 2023 sa ocjenom 9.4 što ih čini jednim od najbolje ocijenjenih apartmana u Dubrovniku." 
+    },
+
+    "contact": {
+      "naslov": "Kontakt i lokacija",
+      "naslov2": "Imate pitanja? Kontaktirajte nas putem forme ili preko naših kontaktnih podataka:",
+      "lokacija": "Lokacija",
+      "lokacijaTekst": "Saraca Palace nalazi se unutar Starog Grada Dubrovnika. Smješteni blizu Dubrovačkog zida i blizu najpoznatijih Dubrovačkih lokacija, blizu ste svega što imate na svojoj TO DO listi.",
+      "kontaktNaslov": "Kontaktirajte nas",
+      "kontaktP": "Kontaktirajte nas putem naših podataka ili preko forme.",
+      "name": "Ime i prezime",
+      "message": "Vaša poruka",
+      "send": "Pošalji"
+    },
+
+    "footer": {
+      "phone": "Tel:",
+      "apartments": "Saraca Palace Apartmani"
+    },
+
+    "CathedralView": {
+        "opis": "Opis: ",
+        "opisText": "Saraca Palace smješten je u samom centru dubrovačkog Starog grada koji je pod zaštitom UNESCO-a. U vlasništvu je plemićke obitelji Saraca od 14. stoljeća. Objekt je udaljen 5 minuta hoda od plaže Banje i nekoliko metara od šetališta Stradun. Cathedral View apartman ima jedinstven pogled na dubrovačku katedralu ispred, besplatni bežični pristup internetu i pametni TV, kuhinju s blagovaonicom, dvokrevetnu spavaću sobu i glavnu sobu. Nudi znamenitosti, barove i restorane koji su udaljeni samo nekoliko koraka od apartmana.",
+        "velicina": "VELIČINA: ",
+        "kreveti": "KREVETI:",
+        "krevetiText": " 2 kreveta za 1 osobu, 1 krevet za 2 osobe",
+
+        "dodatno": "DODATNE USLUGE:",
+        "dodatnoText": " Prijevoz taksijem od aerodroma \nVožnja taksijem na ekskurzijama",
+
+        "sadrzaji": "SADRŽAJI:",
+        "sadrzajiText": "\nA/C \nWIFI \nTV \nTuš \nKupka \nKuhinja \nRadni prostor \nRučnici \nAparat za kavu \nPosuđe i pribor za jelo \nPribor za prvu pomoć \nSušilo za kosu \nGrijanje \nGlačalo \nPećnica \nHladnjak \nŠtednjak",
+        "informacije": "VAŽNE INFORMACIJE:",
+        "checkIn": "Check in nakon 15h",
+        "checkOut": "Check out do 10h",
+        "nocenja": "Minimum noćenja: 3",
+        "cijena": "CIJENE OD 160€"
+    },
+
+    "GardenView": {
+      "opis": "Opis: ",
+      "opisText": "Saraca Palace smješten je u samom centru dubrovačkog Starog grada koji je pod zaštitom UNESCO-a. U vlasništvu je plemićke obitelji Saraca od 14. stoljeća. Objekt je udaljen 5 minuta hoda od plaže Banje i nekoliko metara od šetališta Stradun. Garden View apartman nudi jedinstven pogled na unutarnji dio starog grada. To je studio apartman s čajnom kuhinjom, blagovaonicom, prostorom za spavanje i kupaonicom s odvojenim WC-om. Prostor za spavanje ima jedan povišeni bračni krevet, jedan rasklopivi kauč i jedan povišeni krevet za jednu osobu. Studio apartman ima Wi-Fi i klima-uređaj. Garden View studio apartman pruža pogled, barove i restorane koji su udaljeni samo nekoliko koraka od apartmana.",
+      "velicina": "VELIČINA: ",
+      "kreveti": "KREVETI:",
+      "krevetiText": " 2 za 2 osobe",
+
+      "dodatno": "DODATNE USLUGE:",
+      "dodatnoText": " Prijevoz taksijem od aerodroma \nVožnja taksijem na ekskurzijama",
+
+      "sadrzaji": "SADRŽAJI:",
+      "sadrzajiText": "\nA/C \nWIFI \nTV \nTuš \nKuhinja \nRučnici \nAparat za kavu \nPosuđe i pribor za jelo \nPribor za prvu pomoć \nSušilo za kosu \nGrijanje \nGlačalo \nMikrovalna pećnica \nHladnjak \nŠtednjak",
+      "informacije": "VAŽNE INFORMACIJE:",
+      "checkIn": "Check in nakon 15h",
+      "checkOut": "Check out do 10h",
+      "nocenja": "Minimum noćenja: 3",
+      "cijena": "CIJENE OD 140€"
+    },
+    
+    "Booking": {
+      "rates": "Najbolje cijene od: ",
+      "checkin": "Dolazak",
+      "checkout": "Odlazak",
+      "adults": "Odrasli",
+      "children": "Djeca",
+      "childAge": "Dob djece",
+      "next": "DALJE",
+      "sun": "NED",
+      "tue": "UTO",
+      "wed": "SRI",
+      "thu": "ČET",
+      "fri": "PET",
+      "sat": "SUB",
+      "mon": "PON",
+      "fName": "Ime",
+      "lName": "Prezime",
+      "arrivalTime": "Približno vrijeme dolaska",
+      "back": "NATRAG",
+      "payment": "Plaćanje",
+      "bookButton": "REZERVIRAJ TERMIN"
+      },
+      
+      "months": {
+        "january": "Siječanj",
+        "february": "Veljača",
+        "march": "Ožujak",
+        "april": "Travanj",
+        "may": "Svibanj",
+        "june": "Lipanj",
+        "july": "Srpanj",
+        "august": "Kolovoz",
+        "september": "Rujan",
+        "october": "Listopad",
+        "november": "Studeni",
+        "december": "Prosinac"
+        }
+}
+  

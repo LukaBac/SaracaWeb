@@ -1,0 +1,132 @@
+.DetailsSection{
+    width: 1200px;
+    margin: 2rem auto 4rem auto;
+}
+
+.DetailsSection h1{
+    font-weight: 400;
+    margin-top: 2rem;
+}
+.DetailsImage{
+    height: 400px;
+    width: 600px;
+    background-position: center;
+    background-size: cover;
+}
+
+.Details{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#apartmentNavLinks{
+    margin-top: 4rem;
+}
+
+.ApartmanData{
+    margin-left: 4rem;
+    white-space: pre-line;  
+    vertical-align: bottom;
+}
+
+.ApartmanData p{
+    margin-bottom: 1.5rem;
+}
+
+.ApartmanData ul{
+    margin-left: 4rem;
+    margin-top: -0.5rem;
+}
+
+.ApartmanData li{
+    margin-bottom: 0.5rem;
+}
+
+
+.ApartmanPrice{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.ApartmanData #opis{
+    width: 500px;
+}
+
+.ApartmanData .CardReservationBtn{
+    margin-left: calc(50% - 100px);
+}
+
+
+
+@media only screen and (max-width: 1300px){
+    .DetailsSection{
+        width: 95%;
+    }
+    .Details{
+        width: 100%;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .DetailsImage{
+        width: 1000px;
+        height: 600px;
+    }
+
+    .ApartmanData{
+        margin-top: 4rem;
+        margin-left: 0;
+    }
+
+    .ApartmanData #opis{
+        width: 900px;
+    }
+
+}
+
+@media only screen and (max-width: 1050px){
+    .DetailsImage{
+        width: 700px;
+        height: 400px;
+    }
+
+    .ApartmanData #opis{
+        width: 700px;
+    }
+}
+
+@media only screen and (max-width: 750px){
+    .DetailsImage{
+        width: 100%;
+        height: 60vw;
+    }
+
+    .ApartmanData #opis{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .DetailsSection h1{
+        font-size: 1.6rem;
+    }
+
+    .DetailsSection p{
+        font-size: 0.9rem;
+    }
+
+
+    .ApartmanData{
+        font-size: 0.9rem;
+    }
+
+    .ApartmanData .CardReservationBtn{
+        width: 160px;
+        height: 40px;
+        margin-left: calc(50% - 80px);
+    }
+}
+
+
